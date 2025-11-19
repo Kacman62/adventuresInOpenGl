@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OpenGlPractice.vcxproj" Id="2d6592da-8e8d-4228-a517-cc912921151b" />
+</Solution>
